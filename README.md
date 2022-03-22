@@ -1,5 +1,5 @@
 # Moving Face
-This is my first gameboy game, I am working on more features (obviously I'm not gonna be keeping the project like this)
+This is my first gameboy game, I am working on more features (obviously I'm not gonna be keeping the project like this) and also the game was made on Windows 98.
 # Compiling
 You ***can*** grab a copy of the game from Releases, but if you still wanna compile it then here are the instructions:
 First, you must have extracted the GBDK zip in C:\
