@@ -1,0 +1,8 @@
+# moving-face
+A gameboy game.
+# Compiling
+Run make.bat to compile
+### Dependencies
+GBDK
+# Running
+Run the game on a real gameboy, or just use an emulator.
