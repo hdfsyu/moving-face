@@ -1,0 +1,6 @@
+*.o
+*.gb
+*.lst
+*.map
+*.sym
+.vscode/
