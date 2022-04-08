@@ -1,5 +1,5 @@
 # moving-face
-A gameboy game.
+A gameboy game. Made on Windows 98 SE
 # Compiling
 Run make.bat to compile
 ### Dependencies
